@@ -9,5 +9,6 @@
   	<module>thread_batch</module>
   	<module>dubboxdemo-service</module>
   	<module>dubboxdemo-web</module>
+  	<module>thread_train</module>
   </modules>
 </project>
